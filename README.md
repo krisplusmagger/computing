@@ -1,1 +1,1 @@
-# computing
+# for the course
